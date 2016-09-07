@@ -1,28 +1,40 @@
-name: Provident Consulting
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.8967
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6089471976738423
+  brandStrength: 1
+  lightness: 0.8733551157638431
+  brandColors:
+    - '#FFFFFF'
+    - '#737D74'
+    - '#0C1D0E'
+    - '#AAB0AA'
+    - '#3A483C'
+  rhythmicContrast: 0.293159076012671
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Provident Consulting
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#045391'
-    - '#172918'
-    - '#649b43'
-    - '#000000'
-    - '#008000'
-  brandStrength: 0.5
-  lightness: 0.8733551157638431
-  saturation: 0.6089471976738423
-  rhythmicContrast: 0.293159076012671
-purpose: []
+typography_spectrum: 0.1525187
+layout_spectrum: 0
